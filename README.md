@@ -21,7 +21,7 @@ Installation
 Clone the repository:
 
 bash
-git clone https://github.com/yourusername/deepseek-share-scraper.git
+git clone https://github.com/WoodgamerHD/deepseek-share-scraper.git
 cd deepseek-share-scraper
 Install the required Python package:
 
